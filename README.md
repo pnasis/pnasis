@@ -1,7 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
-
+### Hi there, I am Prodromos!👋
 - 🎓I'm studying Applied Informatics, Management Information Systems.
 - 📫 Send me a message if you want  to collaborate!
 
