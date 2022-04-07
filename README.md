@@ -3,6 +3,8 @@
 
 ## 📫 Reach me if you want to collaborate via:
 - [LinkedIn](https://www.linkedin.com/in/prodromos-nasis-223ba420b/).
+- [GitHub](https://github.com/pnasis)
+- [GitLab](https://gitlab.com/pnasis)
 
 <hr>
 
