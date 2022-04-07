@@ -2,7 +2,7 @@
 - 🎓I'm studying Applied Informatics, Management Information Systems.
 
 ## 📫 Reach me if you want to collaborate via:
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prodromos-nasis-223ba420b/)](https://www.linkedin.com/in/prodromos-nasis-223ba420b/)
+- [LinkedIn](https://www.linkedin.com/in/prodromos-nasis-223ba420b/).
 
 <hr>
 
