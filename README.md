@@ -1,5 +1,6 @@
-### Hi there, I am Prodromos!👋
+### print("Hello World!")👋
 - 🎓I'm studying Applied Informatics, Management Information Systems.
+- 🔐I'm interested in Cyber Security.
 
 ## 📫 Reach me if you want to collaborate via:
 - [LinkedIn](https://www.linkedin.com/in/prodromos-nasis-223ba420b/).
