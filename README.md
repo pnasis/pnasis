@@ -1,6 +1,7 @@
 ### print("Hello World!")👋
 - 🎓I'm studying Applied Informatics, Management Information Systems.
-- 🔐I'm interested in Cyber Security.
+- 🔐I'm interested in Cyber Security and Cryptography.
+- 👨‍💻
 
 ## 📫 Reach me if you want to collaborate via:
 - [LinkedIn](https://www.linkedin.com/in/prodromos-nasis-223ba420b/).
