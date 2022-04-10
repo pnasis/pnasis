@@ -29,6 +29,7 @@
 &nbsp;
 <a href= https://www.codeblocks.org> <img width ='32px' src ='https://1.bp.blogspot.com/-h9D36wzWc1E/WRHtrvRXlyI/AAAAAAAABPI/3MGZ1bpRPTYYxFWOkV-QwsXzY9klH-84gCLcB/s400/code%2Bblock%2Blogo.jpg'> </a>
 
+- Other:
 <a href= https://wordpress.com/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'> </a>
 <a href= https://www.autodesk.com/products/3ds-max/overview> <img width ='32px' src ='https://seeklogo.com/images/1/3ds-max-logo-4C228D4A3D-seeklogo.com.png'> </a>
 <a href= https://www.tableau.com/> <img width ='32px' src ='https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website-300x300.jpg'> </a>
