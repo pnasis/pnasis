@@ -27,7 +27,6 @@
 <a href= https://www.tableau.com/> <img width ='32px' src ='https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website-300x300.jpg'> </a>
 <a href= https://www.sap.com/index.html> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg'> </a>
 <a href= https://kanbanize.com> <img width ='32px' src ='https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/29a0cda2-8ab7-4d7e-980d-b4736a6493f6.png?auto=format&ixlib=react-9.0.3'> </a>
-<a href= https://visualstudio.microsoft.com> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png?20210214224138'> </a>
 <a href= https://www.eclipse.org> <img width ='32px' src ='https://brandslogos.com/wp-content/uploads/images/eclipse-logo-vector.svg'> </a>
 &nbsp;
 <a href= https://www.codeblocks.org> <img width ='32px' src ='https://1.bp.blogspot.com/-h9D36wzWc1E/WRHtrvRXlyI/AAAAAAAABPI/3MGZ1bpRPTYYxFWOkV-QwsXzY9klH-84gCLcB/s400/code%2Bblock%2Blogo.jpg'> </a>
