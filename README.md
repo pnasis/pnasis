@@ -31,7 +31,7 @@
 <a href= https://www.visual-paradigm.com/> <img width ='32px' src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpv-82spS0PeYXqWrsm2Lt3e93bZ8_1_5vWxqrWCh10uB6K2sd9nxAcPHhckj8zd0tjs&usqp=CAU'> </a>
 
 - Collaborative Tools:
-- <a href= https://git-scm.com> <img width ='32px' src ='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png'> </a>
+<a href= https://git-scm.com> <img width ='32px' src ='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png'> </a>
 <a href= https://kanbanize.com> <img width ='32px' src ='https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/29a0cda2-8ab7-4d7e-980d-b4736a6493f6.png?auto=format&ixlib=react-9.0.3'> </a>
 <a href= https://slack.com> <img width ='32px' src ='https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/20/91/76/2091769d-32c3-c277-a44c-3a848e1bec0c/electron.png/1200x630bb.png'> </a>
 
