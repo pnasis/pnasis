@@ -28,6 +28,7 @@
 <a href= https://www.eclipse.org> <img width ='32px' src ='https://brandslogos.com/wp-content/uploads/images/eclipse-logo-vector.svg'> </a>
 &nbsp;
 <a href= https://www.codeblocks.org> <img width ='32px' src ='https://1.bp.blogspot.com/-h9D36wzWc1E/WRHtrvRXlyI/AAAAAAAABPI/3MGZ1bpRPTYYxFWOkV-QwsXzY9klH-84gCLcB/s400/code%2Bblock%2Blogo.jpg'> </a>
+<a href= https://code.visualstudio.com/> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png'> </a>
 
 - Collaboration Tools:
 <a href= https://kanbanize.com> <img width ='32px' src ='https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/29a0cda2-8ab7-4d7e-980d-b4736a6493f6.png?auto=format&ixlib=react-9.0.3'> </a>
