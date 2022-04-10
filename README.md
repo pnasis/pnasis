@@ -23,7 +23,7 @@
 <a href= https://www.postgresql.org/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>&nbsp;
 
 - IDE's:
-- <a href= https://developer.android.com/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
+<a href= https://developer.android.com/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
 <a href= https://www.visual-paradigm.com/> <img width ='32px' src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpv-82spS0PeYXqWrsm2Lt3e93bZ8_1_5vWxqrWCh10uB6K2sd9nxAcPHhckj8zd0tjs&usqp=CAU'> </a>
 <a href= https://www.eclipse.org> <img width ='32px' src ='https://brandslogos.com/wp-content/uploads/images/eclipse-logo-vector.svg'> </a>
 &nbsp;
