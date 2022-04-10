@@ -3,7 +3,8 @@
 - 🔐I'm interested in Cyber Security and Cryptography.
 
 ## 📫 Reach me if you want to collaborate via:
-- [LinkedIn](https://www.linkedin.com/in/prodromos-nasis-223ba420b/).
+
+<a href= https://www.linkedin.com/in/prodromos-nasis-223ba420b/> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png'> </a>
 - [GitHub](https://github.com/pnasis)
 - [GitLab](https://gitlab.com/pnasis)
 
@@ -49,4 +50,5 @@ Template from: https://github.com/anuraghazra/github-readme-stats
 
 <!--
 **pnasis/pnasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [LinkedIn](https://www.linkedin.com/in/prodromos-nasis-223ba420b/).
 -->
