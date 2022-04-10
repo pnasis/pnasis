@@ -12,15 +12,15 @@
 <a href= https://www.cprogramming.com/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://www.java.com/en/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= https://www.python.org/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>&nbsp;
-<a href= https://www.uml.org/> <img width ='32px' src ='https://w3cschoool.com/public/file/UML/uml-tutorial.png'> </a>
-<a href= https://www.bpmn.org/> <img width ='32px' src ='https://www.omg.org/images/logos/BPMN-logo.svg'> </a>
 <a href= https://html.com/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://www.w3schools.com/css/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://www.javascript.com/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>&nbsp;
-<a href= https://www.php.net/> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png'> </a>
 <a href= https://www.mysql.com/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 <a href= https://mariadb.org/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mariadb.svg'> </a>
 <a href= https://www.postgresql.org/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>&nbsp;
+<a href= https://www.php.net/> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png'> </a>
+<a href= https://www.uml.org/> <img width ='32px' src ='https://w3cschoool.com/public/file/UML/uml-tutorial.png'> </a>
+<a href= https://www.bpmn.org/> <img width ='32px' src ='https://www.omg.org/images/logos/BPMN-logo.svg'> </a>
 
 - IDE's:
 <a href= https://www.eclipse.org> <img width ='32px' src ='https://brandslogos.com/wp-content/uploads/images/eclipse-logo-vector.svg'> </a>
@@ -34,7 +34,6 @@
 <a href= https://git-scm.com> <img width ='32px' src ='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png'> </a>
 <a href= https://kanbanize.com> <img width ='32px' src ='https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/29a0cda2-8ab7-4d7e-980d-b4736a6493f6.png?auto=format&ixlib=react-9.0.3'> </a>
 <a href= https://slack.com> <img width ='32px' src ='https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/20/91/76/2091769d-32c3-c277-a44c-3a848e1bec0c/electron.png/1200x630bb.png'> </a>
-
 
 - Other:
 <a href= https://wordpress.com/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'> </a>
