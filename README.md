@@ -5,7 +5,7 @@
 ## 📫 Reach me if you want to collaborate via:
 
 <a href= https://www.linkedin.com/in/prodromos-nasis-223ba420b/> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png'> </a>
-<a href= https://github.com/pnasis/> <img width ='32px' src='https://w7.pngwing.com/pngs/435/424/png-transparent-github-computer-icons-source-code-github.png'> </a>
+<a href= https://github.com/pnasis/> <img width ='32px' src='https://camo.githubusercontent.com/ce7d984a9a92f8f610e17795df90bad1fc2ac27f42078bd26db5f67395fbf62a/68747470733a2f2f637369732e706163652e6564752f7e736368617266662f706163656d6f62696c656c61622f696d616765732f6769746875622e6a7067'> </a>
 <a href= https://gitlab.com/pnasis/> <img width ='32px' src='https://symbols.getvecta.com/stencil_81/49_gitlab-icon.f53b6eea7f.png'> </a>
 
 ## 👨‍💻 Subject Modules
