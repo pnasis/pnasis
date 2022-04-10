@@ -1,6 +1,8 @@
 ### print("Hello World!")👋
 - 🎓I'm studying Applied Informatics, Management Information Systems.
-- 🔐I'm interested in Cyber Security and Cryptography.
+- 🔐Interested in Cyber Security, Cryptography and Algorithms.
+- 💭Interested in problem solving.
+- 👷‍♂️Currently obsesed with Java.
 
 ## 📫 Reach me if you want to collaborate via:
 
