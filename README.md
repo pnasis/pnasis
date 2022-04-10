@@ -1,14 +1,13 @@
 ### print("Hello World!")👋
 - 🎓I'm studying Applied Informatics, Management Information Systems.
 - 🔐I'm interested in Cyber Security and Cryptography.
-- 👨‍💻
 
 ## 📫 Reach me if you want to collaborate via:
 - [LinkedIn](https://www.linkedin.com/in/prodromos-nasis-223ba420b/).
 - [GitHub](https://github.com/pnasis)
 - [GitLab](https://gitlab.com/pnasis)
 
-## Subject Modules
+## 👨‍💻 Subject Modules
 <a href= https://developer.android.com/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
 <a href= https://www.cprogramming.com/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://www.java.com/en/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
