@@ -6,7 +6,7 @@
 
 <a href= https://www.linkedin.com/in/prodromos-nasis-223ba420b/> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png'> </a>
 <a href= https://github.com/pnasis/> <img width ='32px' src='https://w7.pngwing.com/pngs/435/424/png-transparent-github-computer-icons-source-code-github.png'> </a>
-- [GitLab](https://gitlab.com/pnasis)
+<a href= https://gitlab.com/pnasis/> <img width ='32px' src='http://assets.stickpng.com/images/5847f997cef1014c0b5e48c1.png'> </a>
 
 ## 👨‍💻 Subject Modules
 - Programming Languages:
