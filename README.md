@@ -11,7 +11,7 @@
 <a href= https://gitlab.com/pnasis/> <img width ='32px' src='https://symbols.getvecta.com/stencil_81/49_gitlab-icon.f53b6eea7f.png'> </a>
 
 ## 👨‍💻 Subject Modules
-- Programming Languages:
+- `Programming Languages`:
 <a href= https://www.cprogramming.com/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://www.java.com/en/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= https://www.python.org/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>&nbsp;
