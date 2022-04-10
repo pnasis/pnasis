@@ -47,7 +47,7 @@
 
 <hr>
 
-<img height="200em" width="410vw" src="https://github-readme-stats.vercel.app/api?username=pnasis&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="stats"> <img height="220em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pnasis&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="top-langs"> \
+<img height="200em" width="410vw" src="https://github-readme-stats.vercel.app/api?username=pnasis&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="stats"> <img height="220em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pnasis&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="top-langs">
 
 <!--
 **pnasis/pnasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
