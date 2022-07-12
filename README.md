@@ -26,8 +26,8 @@
 <a href= https://reactjs.org/> <img width='32' height='32' src ='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'> </a>
 <a href= https://www.php.net/> <img width='40' height='32' src ='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg'> </a>
 <a href= https://www.mysql.com/> <img width='40' height='32' src ='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg'> </a>
-<a href= https://www.uml.org/> <img width='40' height='40' src ='https://w3cschoool.com/public/file/UML/uml-tutorial.png'> </a>
-<a href= https://www.bpmn.org/> <img width='40' height='40' src ='https://www.omg.org/images/logos/BPMN-logo.svg'> </a>
+<a href= https://www.uml.org/> <img width='32' height='32' src ='https://w3cschoool.com/public/file/UML/uml-tutorial.png'> </a>
+<a href= https://www.bpmn.org/> <img width='40' height='32' src ='https://www.omg.org/images/logos/BPMN-logo.svg'> </a>
 
 - `IDE's:`
 <a href= https://www.eclipse.org> <img width ='32px' src ='https://brandslogos.com/wp-content/uploads/images/eclipse-logo-vector.svg'> </a>
