@@ -27,7 +27,7 @@
 - `IDE's:`
 <a href= https://www.eclipse.org> <img width ='32px' src ='https://brandslogos.com/wp-content/uploads/images/eclipse-logo-vector.svg'> </a>
 &nbsp;
-<a href= https://code.visualstudio.com/> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png'> </a>
+<a href= https://code.visualstudio.com/> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg'> </a>
 <a href= https://www.codeblocks.org> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg'> </a>
 <a href= https://dbeaver.io//> <img width ='32px' src ='https://dbeaver.com/wp-content/themes/utouch/img/dbeaver/Icon.png'>
 <a href= https://developer.android.com/> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg'> </a>
