@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>print("Hello World!")👋</h1>
-  <img src='https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif' width='200px' height='200px'>
+  <img src='https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif' width='300px' height='250px'>
 </div>
 
 ### 📫 Reach me if you want to collaborate via:
