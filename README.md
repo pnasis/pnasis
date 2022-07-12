@@ -1,4 +1,5 @@
 ### print("Hello World!")👋
+<img src='https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif' align="center">
 - 🎓I'm studying Applied Informatics, Management Information Systems.
 - 🔐Interested in Cyber Security, Cryptography and Algorithms.
 - 💭Interested in problem solving.
