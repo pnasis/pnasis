@@ -3,6 +3,12 @@
   <img src='https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif' width='300px' height='250px'>
 </div>
 
+### About me:
+- 🎓I'm studying Applied Informatics, Management Information Systems.
+  - 🔐Interested in Cyber Security, Cryptography and Algorithms.
+  - 💭Interested in problem solving.
+<!-- - 👷‍♂️Currently obsessed with Java. -->
+
 ### 📫 Reach me if you want to collaborate via:
 
 <a href= https://www.linkedin.com/in/prodromos-nasis-223ba420b/> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg'> </a>
