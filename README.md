@@ -1,9 +1,11 @@
-### print("Hello World!")👋
-<img src='https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif' align="center">
-- 🎓I'm studying Applied Informatics, Management Information Systems.
-- 🔐Interested in Cyber Security, Cryptography and Algorithms.
-- 💭Interested in problem solving.
+<div id="header" align="center">
+  ### print("Hello World!")👋
+  <img src='https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif' width='200px' height='200px'>
+  - 🎓I'm studying Applied Informatics, Management Information Systems.
+  - 🔐Interested in Cyber Security, Cryptography and Algorithms.
+  - 💭Interested in problem solving.
 <!-- - 👷‍♂️Currently obsessed with Java. -->
+</div>
 
 ### 📫 Reach me if you want to collaborate via:
 
