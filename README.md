@@ -12,17 +12,17 @@
 
 ## 👨‍💻 Subject Modules
 - `Programming Languages:`
-<a href= https://www.cprogramming.com/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://www.java.com/en/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://www.python.org/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>&nbsp;
-<a href= https://html.com/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://www.w3schools.com/css/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://www.javascript.com/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>&nbsp;
-<a href= https://reactjs.org/> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png'> </a>
-<a href= https://www.php.net/> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png'> </a>
-<a href= https://www.mysql.com/> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://www.uml.org/> <img width ='32px' src ='https://w3cschoool.com/public/file/UML/uml-tutorial.png'> </a>
-<a href= https://www.bpmn.org/> <img width ='32px' src ='https://www.omg.org/images/logos/BPMN-logo.svg'> </a>
+<a href= https://www.cprogramming.com/> <img width='40' height='40' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= https://www.java.com/en/> <img width='40' height='40' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+<a href= https://www.python.org/> <img width='40' height='40' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>&nbsp;
+<a href= https://html.com/> <img width='40' height='40' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://www.w3schools.com/css/> <img width='40' height='40' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://www.javascript.com/> <img width='40' height='40' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>&nbsp;
+<a href= https://reactjs.org/> <img width='40' height='40' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png'> </a>
+<a href= https://www.php.net/> <img width='40' height='40' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png'> </a>
+<a href= https://www.mysql.com/> <img width='40' height='40' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+<a href= https://www.uml.org/> <img width='40' height='40' src ='https://w3cschoool.com/public/file/UML/uml-tutorial.png'> </a>
+<a href= https://www.bpmn.org/> <img width='40' height='40' src ='https://www.omg.org/images/logos/BPMN-logo.svg'> </a>
 
 - `IDE's:`
 <a href= https://www.eclipse.org> <img width ='32px' src ='https://brandslogos.com/wp-content/uploads/images/eclipse-logo-vector.svg'> </a>
