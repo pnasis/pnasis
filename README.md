@@ -28,7 +28,7 @@
 <a href= https://www.eclipse.org> <img width ='32px' src ='https://brandslogos.com/wp-content/uploads/images/eclipse-logo-vector.svg'> </a>
 &nbsp;
 <a href= https://code.visualstudio.com/> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg'> </a>
-<a href= https://www.codeblocks.org> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg'> </a>
+<a href= https://www.codeblocks.org> <img width ='32px' src ='https://1.bp.blogspot.com/-h9D36wzWc1E/WRHtrvRXlyI/AAAAAAAABPI/3MGZ1bpRPTYYxFWOkV-QwsXzY9klH-84gCLcB/s400/code%2Bblock%2Blogo.jpg'> </a>
 <a href= https://dbeaver.io//> <img width ='32px' src ='https://dbeaver.com/wp-content/themes/utouch/img/dbeaver/Icon.png'>
 <a href= https://developer.android.com/> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg'> </a>
 <a href= https://www.visual-paradigm.com/> <img width ='32px' src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpv-82spS0PeYXqWrsm2Lt3e93bZ8_1_5vWxqrWCh10uB6K2sd9nxAcPHhckj8zd0tjs&usqp=CAU'> </a>
