@@ -2,7 +2,7 @@
 - 🎓I'm studying Applied Informatics, Management Information Systems.
 - 🔐Interested in Cyber Security, Cryptography and Algorithms.
 - 💭Interested in problem solving.
-- 👷‍♂️Currently obsessed with Java.
+<!-- - 👷‍♂️Currently obsessed with Java. -->
 
 ## 📫 Reach me if you want to collaborate via:
 
