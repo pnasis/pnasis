@@ -13,7 +13,7 @@
 
 <a href= https://www.linkedin.com/in/prodromos-nasis-223ba420b/> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg'> </a>
 <a href= https://github.com/pnasis/> <img width ='32px' src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg'> </a>
-<a href= https://gitlab.com/pnasis/> <img width ='32px' src='https://symbols.getvecta.com/stencil_81/49_gitlab-icon.f53b6eea7f.png'> </a>
+<a href= https://gitlab.com/pnasis/> <img width ='32px' src='https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg'> </a>
 
 <hr>
 
