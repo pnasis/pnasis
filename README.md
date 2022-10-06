@@ -31,13 +31,13 @@
 <a href= https://www.bpmn.org/> <img width='40' height='32' src ='https://www.omg.org/images/logos/BPMN-logo.svg'> </a>
 
 - Tools: \
+<a href= https://git-scm.com> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg'> </a>
 <a href= https://www.linux.org/> <img width ='32' src ='https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg'> </a>
 <a href= https://postman.com/> <img width='32px' src ='https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg'/> </a>
 <a href= https://wordpress.com/> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg'> </a>
 <a href= http://dia-installer.de> <img width ='32px' src ='http://static.dia-installer.de/images/dia.png'> </a>
 <a href= https://www.tableau.com/> <img width ='32px' src ='https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website-300x300.jpg'> </a>
 <a href= https://www.sap.com/index.html> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg'> </a>
-<a href= https://git-scm.com> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg'> </a>
 <a href= https://slack.com> <img width ='32px' src ='https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/20/91/76/2091769d-32c3-c277-a44c-3a848e1bec0c/electron.png/1200x630bb.png'> </a>
 <a href= https://trello.com/> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg'> </a>
 
