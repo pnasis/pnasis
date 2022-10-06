@@ -46,6 +46,7 @@
 
 - Other: \
 <a href= https://www.linux.org/> <img width ='32' src ='https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg'> </a>
+<a href= https://postman.com/> <img width='32px' src ='https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg'/> </a>
 <a href= https://wordpress.com/> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg'> </a>
 <a href= http://dia-installer.de> <img width ='32px' src ='http://static.dia-installer.de/images/dia.png'> </a>
 <a href= https://www.tableau.com/> <img width ='32px' src ='https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website-300x300.jpg'> </a>
