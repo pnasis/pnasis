@@ -12,6 +12,7 @@
 ### 📫 Reach me if you want to collaborate via:
 
 <a href= https://www.linkedin.com/in/prodromos-nasis-223ba420b/> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg'> </a>
+<a href= https://mobile.twitter.com/ProdromosNasis/> <img width ='32px' src='https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg'> </a>
 <a href= https://github.com/pnasis/> <img width ='32px' src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg'> </a>
 <a href= https://gitlab.com/pnasis/> <img width ='32px' src='https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg'> </a>
 
