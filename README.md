@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>print("Hello World!")<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
+  <h1>print("Hello World!")<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"></h1>
   <img src='https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif' width='300px' height='250px'>
 </div>
 
