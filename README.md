@@ -23,7 +23,7 @@
 <a href= https://www.cprogramming.com/> <img width='32' height='32' src ='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg'> </a>
 <a href= https://www.java.com/en/> <img width='32' height='32' src ='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg'> </a>
 <a href= https://spring.io/projects/spring-boot> <img width='32' height='32' src ='https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg'> </a>
-<a href= https://www.python.org/> <img width='32' height='32' src ='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'> </a>&nbsp;
+<a href= https://www.python.org/> <img width='32' height='32' src ='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'> </a>
 <!--
 <a href= https://html.com/> <img width='32' height='32' src ='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'> </a>
 <a href= https://www.w3schools.com/css/> <img width='32' height='32' src ='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg'> </a>
