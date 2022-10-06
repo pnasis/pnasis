@@ -20,26 +20,26 @@
 
 ### 👨‍💻 Subject Modules
 - Programming Languages: \
-<a href= https://www.cprogramming.com/> <img width='32' height='32' src ='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg'> </a>
-<a href= https://www.java.com/en/> <img width='32' height='32' src ='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg'> </a>
-<a href= https://spring.io/projects/spring-boot> <img width='32' height='32' src ='https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg'> </a>
-<a href= https://www.python.org/> <img width='32' height='32' src ='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'> </a>
-<a href= https://reactjs.org/> <img width='32' height='32' src ='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'> </a>
-<a href= https://www.php.net/> <img width='40' height='32' src ='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg'> </a>
-<a href= https://www.mysql.com/> <img width='40' height='32' src ='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg'> </a>
-<a href= https://www.uml.org/> <img width='32' height='32' src ='https://w3cschoool.com/public/file/UML/uml-tutorial.png'> </a>
-<a href= https://www.bpmn.org/> <img width='40' height='32' src ='https://www.omg.org/images/logos/BPMN-logo.svg'> </a>
+<a href= https://www.cprogramming.com/> <img width='40' height='40' src ='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg'> </a>
+<a href= https://www.java.com/en/> <img width='40' height='40' src ='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg'> </a>
+<a href= https://spring.io/projects/spring-boot> <img width='40' height='40' src ='https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg'> </a>
+<a href= https://www.python.org/> <img width='40' height='40' src ='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'> </a>
+<a href= https://reactjs.org/> <img width='40' height='40' src ='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'> </a>
+<a href= https://www.php.net/> <img width='40' height='40' src ='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg'> </a>
+<a href= https://www.mysql.com/> <img width='40' height='40' src ='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg'> </a>
+<a href= https://www.uml.org/> <img width='40' height='40' src ='https://w3cschoool.com/public/file/UML/uml-tutorial.png'> </a>
+<a href= https://www.bpmn.org/> <img width='40' height='40' src ='https://www.omg.org/images/logos/BPMN-logo.svg'> </a>
 
 - Tools: \
-<a href= https://git-scm.com> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg'> </a>
-<a href= https://www.linux.org/> <img width ='32' src ='https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg'> </a>
-<a href= https://postman.com/> <img width='32px' src ='https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg'/> </a>
-<a href= https://wordpress.com/> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg'> </a>
-<a href= http://dia-installer.de> <img width ='32px' src ='http://static.dia-installer.de/images/dia.png'> </a>
-<a href= https://www.tableau.com/> <img width ='32px' src ='https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website-300x300.jpg'> </a>
-<a href= https://www.sap.com/index.html> <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg'> </a>
-<a href= https://slack.com> <img width ='32px' src ='https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/20/91/76/2091769d-32c3-c277-a44c-3a848e1bec0c/electron.png/1200x630bb.png'> </a>
-<a href= https://trello.com/> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg'> </a>
+<a href= https://git-scm.com> <img width ='40px' src ='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg'> </a>
+<a href= https://www.linux.org/> <img width ='40px' src ='https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg'> </a>
+<a href= https://postman.com/> <img width='40px' src ='https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg'/> </a>
+<a href= https://wordpress.com/> <img width ='40px' src ='https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg'> </a>
+<a href= http://dia-installer.de> <img width ='40px' src ='http://static.dia-installer.de/images/dia.png'> </a>
+<a href= https://www.tableau.com/> <img width ='40px' src ='https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website-300x300.jpg'> </a>
+<a href= https://www.sap.com/index.html> <img width ='40px' src ='https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg'> </a>
+<a href= https://slack.com> <img width ='40px' src ='https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/20/91/76/2091769d-32c3-c277-a44c-3a848e1bec0c/electron.png/1200x630bb.png'> </a>
+<a href= https://trello.com/> <img width ='40px' src ='https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg'> </a>
 
 <hr>
 
