@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Kubeslice Project**
 
-- 🌱 I’m currently learning **Network Security, Cryptography**
+- 🌱 I’m currently learning **Cyber Security and Cryptography**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pnasis](https://github.com/pnasis)
 
