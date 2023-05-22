@@ -1,51 +1,33 @@
-<div id="header" align="center">
-  <h1>print("Hello World!")<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width='30px'></h1>
-  <img src='https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif' width='300px' height='250px'>
-</div>
+<h1 align="center">Hi 👋, I'm Prodromos Nasis</h1>
+<h3 align="center">A Network Security Engineer</h3>
 
-### 📌 About me:
-- 🎓I'm studying Applied Informatics, Management Information Systems.
-- 🔐Interested in Cyber Security, Cryptography and Algorithms.
-- 💭Interested in problem solving.
-<!-- - 👷‍♂️Currently obsessed with Java. -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pnasis&label=Profile%20views&color=0e75b6&style=flat" alt="pnasis" /> </p>
 
-### 📫 Reach me if you want to collaborate via:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pnasis" alt="pnasis" /></a> </p>
 
-<a href= https://www.linkedin.com/in/prodromos-nasis-223ba420b/> <img width ='40px' src ='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg'> </a>
-<a href= https://mobile.twitter.com/ProdromosNasis/> <img width ='40px' src='https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg'> </a>
-<a href= https://github.com/pnasis/> <img width ='40px' src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg'> </a>
-<a href= https://gitlab.com/pnasis/> <img width ='40px' src='https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg'> </a>
+- 🔭 I’m currently working on **Kubeslice Project**
 
-<hr>
+- 🌱 I’m currently learning **Network Security, Cryptography**
 
-### 👨‍💻 Subject Modules
-- Programming Languages: \
-<a href= https://www.cprogramming.com/> <img width='40' height='40' src ='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg'> </a>
-<a href= https://www.java.com/en/> <img width='40' height='40' src ='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg'> </a>
-<a href= https://spring.io/projects/spring-boot> <img width='40' height='40' src ='https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg'> </a>
-<a href= https://www.python.org/> <img width='40' height='40' src ='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'> </a>
-<a href= https://reactjs.org/> <img width='40' height='40' src ='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'> </a>
-<a href= https://www.php.net/> <img width='40' height='40' src ='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg'> </a>
-<a href= https://www.mysql.com/> <img width='40' height='40' src ='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg'> </a>
-<a href= https://www.uml.org/> <img width='40' height='40' src ='https://w3cschoool.com/public/file/UML/uml-tutorial.png'> </a>
-<a href= https://www.bpmn.org/> <img width='40' height='40' src ='https://www.omg.org/images/logos/BPMN-logo.svg'> </a>
+- 👨‍💻 All of my projects are available at [https://github.com/pnasis](https://github.com/pnasis)
 
-- Tools: \
-<a href= https://git-scm.com> <img width ='40px' src ='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg'> </a>
-<a href= https://www.linux.org/> <img width ='40px' src ='https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg'> </a>
-<a href= https://postman.com/> <img width='40px' src ='https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg'/> </a>
-<a href= http://dia-installer.de> <img width ='40px' src ='http://static.dia-installer.de/images/dia.png'> </a>
-<a href= https://www.tableau.com/> <img width ='40px' src ='https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website-300x300.jpg'> </a>
-<a href= https://www.sap.com/index.html> <img width ='40px' src ='https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg'> </a>
-<a href= https://slack.com> <img width ='40px' src ='https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/20/91/76/2091769d-32c3-c277-a44c-3a848e1bec0c/electron.png/1200x630bb.png'> </a>
-<a href= https://trello.com/> <img width ='40px' src ='https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg'> </a>
+- 📫 How to reach me **prodromos.nasis@gmail.com**
 
-<hr>
+- 📄 Know about my experiences [https://pnasis.github.io/](https://pnasis.github.io/)
 
-<img height="200em" width="410vw" src="https://github-readme-stats.vercel.app/api?username=pnasis&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="stats"> <img height="220em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pnasis&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="top-langs">
+- ⚡ Fun fact **Everything is opensource, if you can read Assembly.**
 
-<!--
-**pnasis/pnasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- [LinkedIn](https://www.linkedin.com/in/prodromos-nasis-223ba420b/).
-Template from: https://github.com/anuraghazra/github-readme-stats 
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/prodromos-nasis-223ba420b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prodromos-nasis-223ba420b/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pnasis&show_icons=true&locale=en&layout=compact" alt="pnasis" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pnasis&show_icons=true&locale=en" alt="pnasis" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pnasis&" alt="pnasis" /></p>
+
