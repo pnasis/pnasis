@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://pnasis.github.io/](https://pnasis.github.io/)
 
-- ⚡ Fun fact **~Everything is opensource, if you can read Assembly.~**
+- ⚡ Fun fact **~Everything is opensource, if you can read Assembly.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
