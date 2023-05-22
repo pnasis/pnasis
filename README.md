@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prodromos Nasis</h1>
 <h3 align="center">A Network Security Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pnasis&label=Profile%20views&color=0e75b6&style=flat" alt="pnasis" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pnasis" alt="pnasis" /></a> </p>
-
 - 🔭 I’m currently working on **Kubeslice Project**
 
 - 🌱 I’m currently learning **Cyber Security and Cryptography**
