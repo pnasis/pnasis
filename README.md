@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Prodromos Nasis</h1>
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/binary-znFOMXuHVkV36qzdbJ]" width="100"/>
+</div>
 <h3 align="center">A Network Security Engineer</h3>
 
 - 🔭 I’m currently working on **Kubeslice Project**
