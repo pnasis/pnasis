@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/binary-znFOMXuHVkV36qzdbJ]" width="100"/>
+  <img src="https://giphy.com/gifs/binary-znFOMXuHVkV36qzdbJ" width="100"/>
 </div>
 <h3 align="center">A Network Security Engineer</h3>
 
