@@ -1,10 +1,5 @@
 <div id="header" align="center">
 
-
-
-
-
-
   <h1>
   Hey there! I,m Prodromos
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -29,9 +24,9 @@
   <img src="https://komarev.com/ghpvc/?username=pnasis&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
 
-
-
+### :man_technologist: About Me :
 
 
 - 🔭 I’m currently working on **Kubeslice Project**
@@ -44,7 +39,7 @@
 
 - 📄 Know about my experiences [https://pnasis.github.io/](https://pnasis.github.io/)
 
-- ⚡ Fun fact **~Everything is opensource, if you can read Assembly.**
+- ⚡ Fun fact **~Everything is opensource, if you can read Assembly.~**
 
 
 
