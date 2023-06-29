@@ -26,7 +26,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me:
 
 
 - 🔭 I’m currently working on **Kubeslice Project**
