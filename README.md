@@ -29,7 +29,7 @@
 ### About Me:
 
 
-- 🌱 I’m currently learning **Cyber Security and Cryptography**
+- 🌱 An Applied Informatics student with a strong focus on **Cyber Security** and **Cryptography**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/pnasis](https://github.com/pnasis?tab=repositories)
 
