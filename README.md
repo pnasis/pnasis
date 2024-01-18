@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **prodromos.nasis@gmail.com**
 
-- 📄 Know about my experiences [https://pnasis.github.io/](https://pnasis.github.io/)
+- 📄 Know about my experiences [https://pnasis.github.io/](https://pnasis.github.io/online-cv)
 
 - ⚡ Fun fact: **~Everything is opensource, if you can read Assembly.~**
 
