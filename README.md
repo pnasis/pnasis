@@ -12,7 +12,7 @@
 </div>
   
   <div id="badges">
-      <a href="https://www.linkedin.com/in/prodromos-nasis-223ba420b">
+      <a href="https://www.linkedin.com/in/prodromos-nasis">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
