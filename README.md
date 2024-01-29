@@ -71,4 +71,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pnasis&" alt="pnasis" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnasis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
