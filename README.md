@@ -65,7 +65,7 @@
 
 <div id="stats" align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArchontisKostis&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pnasis&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pnasis&show_icons=true&locale=en" alt="pnasis" /></p>
