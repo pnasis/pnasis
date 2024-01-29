@@ -65,8 +65,6 @@
 
 <div id="stats" align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pnasis&show_icons=true&locale=en&layout=compact" alt="pnasis" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pnasis&show_icons=true&locale=en" alt="pnasis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pnasis&" alt="pnasis" /></p>
