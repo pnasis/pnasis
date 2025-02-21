@@ -29,7 +29,7 @@
 ### About Me:
 
 
-- 🌱 An Applied Informatics student with a strong focus on the field of **Cyber Security**.
+- 🌱 An Applied Informatics graduate with a strong passion for the field of **Cyber Security**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/pnasis](https://github.com/pnasis?tab=repositories)
 
